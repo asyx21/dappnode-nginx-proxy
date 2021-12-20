@@ -1,3 +1,4 @@
 **.env
 # DAppNodeSDK release directories
 build_*
+.gitattributes
